@@ -8,3 +8,5 @@ Data set comprises of 20 Newsgroups and using LDA to extract the naturally discu
 
 Using Latent Dirichlet Allocation (LDA) from Gensim package along with the Mallet’s implementation (via Gensim). Mallet has an efficient implementation of the LDA. It is known to run faster and gives better topics segregation.
 
+## Data set 
+Data can be obtained from : https://raw.githubusercontent.com/selva86/datasets/master/newsgroups.json
